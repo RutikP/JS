@@ -1,0 +1,17 @@
+.viewedimg{
+    height: 540px;
+    width: 50%;
+    border: 3px solid grey;
+    margin-left: 25%;
+}
+
+.imgstyle{
+    height: 100px;
+    width: 100px;
+    border: 3px solid grey; 
+    
+}
+
+#first{
+margin-left: 30%;
+}
